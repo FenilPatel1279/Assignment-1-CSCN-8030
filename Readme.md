@@ -20,22 +20,14 @@ requirements.txt → Python dependencies
 
 Setup
 
-Clone the repo:
-
-git clone https://github.com/FenilPatel1279/Assignment-1-CSCN-8030.git
+Clone the repo: git clone https://github.com/FenilPatel1279/Assignment-1-CSCN-8030.git
 
 
-Install dependencies:
+Install dependencies: pip install -r requirements.txt
 
-pip install -r requirements.txt
-
-Usage
-
-Run the project with:
+Usage: Run the project with:
 
 python app.py
 
-Author
-
-Fenil Patel
+Author: Fenil Patel
 Conestoga College – CSCN 8030
